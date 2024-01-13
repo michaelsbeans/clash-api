@@ -72,10 +72,12 @@
     </dependency>
 
     <dependency>
-        <groupId>io.github.michaelsbeans</groupId>
+        <groupId>io.github.lycoon</groupId>
         <artifactId>clash-api</artifactId>
         <version>5.1.1</version>
     </dependency>
+
+    implementation 'io.github.lycoon:clash-api:5.1.1'
   </dependencies>
 
   <build>
